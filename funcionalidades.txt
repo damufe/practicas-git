@@ -1,1 +1,1 @@
-funcionalidad A
+funcionalidad B
