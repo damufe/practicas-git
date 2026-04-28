@@ -1,3 +1,0 @@
-funcionalidad B
-funcionalidad A
-correción de error en A
